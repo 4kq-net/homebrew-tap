@@ -1,7 +1,7 @@
 # typed: false
 # frozen_string_literal: true
 
-class devops < Formula
+class Devops < Formula
   desc "4KQ DevOps Dependencies"
   homepage "https://github.com/4kq-net/homebrew-tap"
   version "0.0.1"
