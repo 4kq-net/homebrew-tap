@@ -1,8 +1,8 @@
 # typed: false
 # frozen_string_literal: true
 
-class 4kq < Formula
-  desc "4KQ Dependencies"
+class devops < Formula
+  desc "4KQ DevOps Dependencies"
   homepage "https://github.com/4kq-net/homebrew-tap"
   version "0.0.1"
   depends_on :macos
